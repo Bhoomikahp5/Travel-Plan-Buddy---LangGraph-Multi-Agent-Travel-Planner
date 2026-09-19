@@ -14,5 +14,5 @@ conda activate travel
 
 3.Install the requiremnets
 ```bash
-pip install -r requirement.txt
+pip install -r requirements.txt
 ```
