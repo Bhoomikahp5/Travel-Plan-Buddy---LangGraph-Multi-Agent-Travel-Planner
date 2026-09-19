@@ -1,4 +1,4 @@
-# Travel Plan-Buddy-LangGraph-Multi-Agent-Travel-Planner
+# Travel-Plan-Buddy-LangGraph-Multi-Agent-Travel-Planner
 
 
 ## How to Run?
